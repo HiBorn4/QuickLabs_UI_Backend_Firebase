@@ -48,18 +48,18 @@ class _CartScreenState extends State<CartScreen> {
     final double cardWidth = screenWidth * 0.87;
     final double cardHeight = screenHeight * 0.25;
 
-    void sendSms() {
-      final List<String> testTitles =
-          cartProvider.cart.map((test) => test.testName).toList();
-      final String message =
-          'Scheduled tests: ${testTitles.join(', ')}\nDate: ${testProvider.formattedDate}\nTime: ${testProvider.formattedTime}';
+    // void sendSms() {
+    //   final List<String> testTitles =
+    //       cartProvider.cart.map((test) => test.testName).toList();
+    //   final String message =
+    //       'Scheduled tests: ${testTitles.join(', ')}\nDate: ${testProvider.formattedDate}\nTime: ${testProvider.formattedTime}';
 
-      SmsSender sender = new SmsSender();
-      String address =
-          '1234567890'; // Replace with the destination phone number
-      SmsMessage smsMessage = new SmsMessage(address, message);
-      sender.sendSms(smsMessage);
-    }
+    //   SmsSender sender = new SmsSender();
+    //   String address =
+    //       '1234567890'; // Replace with the destination phone number
+    //   SmsMessage smsMessage = new SmsMessage(address, message);
+    //   sender.sendSms(smsMessage);
+    // }
 
     return Scaffold(
       appBar: AppBar(

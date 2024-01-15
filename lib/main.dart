@@ -8,7 +8,7 @@ import 'package:alemeno/screens/success_screen.dart';
 
 void main() {
   runApp(
-  await Firebase.initializeApp();
+    // await Firebase.initializeApp();
     MultiProvider(
       providers: [
         ChangeNotifierProvider(
