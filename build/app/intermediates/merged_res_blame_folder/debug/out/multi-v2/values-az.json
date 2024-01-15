@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.alemeno.app-mergeDebugResources-16:/values-az/values-az.xml",
+            "map": [
+                {
+                    "source": "/home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/res/values-az/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "157",
+                        "endOffsets": "352"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "161",
+                        "endOffsets": "212"
+                    }
+                },
+                {
+                    "source": "/home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/res/values-az/values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "217",
+                        "endColumns": "100",
+                        "endOffsets": "313"
+                    }
+                }
+            ]
+        }
+    ]
+}

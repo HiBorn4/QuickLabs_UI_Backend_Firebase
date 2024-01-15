@@ -1,0 +1,4 @@
+#Mon Jan 15 21:16:16 IST 2024
+base.0=/home/hi-born4/Flutter Development/Alemeno/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

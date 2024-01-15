@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "585260137106",
+    "project_id": "quicklab-a3c0e",
+    "storage_bucket": "quicklab-a3c0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585260137106:android:666015ce4469c31c93044b",
+        "android_client_info": {
+          "package_name": "com.example.alemeno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMngqIs-PI_d_IucjVemYKuF93iLEi0CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
