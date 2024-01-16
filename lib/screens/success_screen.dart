@@ -21,6 +21,8 @@ class _SuccessScreenState extends State<SuccessScreen> {
   Widget build(BuildContext context) {
     final testProvider =
         Provider.of<TestProvider>(context); // Access TestProvider
+    final cartProvider =
+        Provider.of<CartProvider>(context); // Access CartProvider
     final Size screenSize = MediaQuery.of(context).size;
     final double boxWidth = screenSize.width * 0.88;
     final double boxHeight = screenSize.height * 0.53;
@@ -115,6 +117,7 @@ class _SuccessScreenState extends State<SuccessScreen> {
               ),
               onPressed: () {
                 // Handle the button press here
+                cartProvider.clearCart();
                 Navigator.pushNamed(context, HomePage.routeName);
               },
               child: Text(
