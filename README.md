@@ -1,5 +1,13 @@
 # alemeno
 
+## App Demo
+
+Demo video of the Flutter Meal App in action:
+
+https://github.com/HiBorn4/QuickLabs_UI_Backend_Firebase/blob/master/demo/quicklabs
+
+A demo video showcasing the Flutter Meal App's features.
+
 A new Flutter project.
 
 ## Getting Started
