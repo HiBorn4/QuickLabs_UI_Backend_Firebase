@@ -1,14 +1,14 @@
-com.example.alemeno.app-jetified-window-java-1.0.0-beta04-0 /home/hi-born4/.gradle/caches/transforms-3/01b9ce7365db6c3ee1e417a1ede36e3e/transformed/jetified-window-java-1.0.0-beta04/res
-com.example.alemeno.app-jetified-core-ktx-1.9.0-1 /home/hi-born4/.gradle/caches/transforms-3/443aeb6b9d04b8fd393031a07f830c67/transformed/jetified-core-ktx-1.9.0/res
-com.example.alemeno.app-jetified-play-services-basement-18.1.0-2 /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/res
-com.example.alemeno.app-jetified-ads-adservices-1.0.0-beta05-3 /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/res
-com.example.alemeno.app-jetified-window-1.0.0-beta04-4 /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/res
-com.example.alemeno.app-core-1.9.0-5 /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/res
-com.example.alemeno.app-lifecycle-runtime-2.3.1-6 /home/hi-born4/.gradle/caches/transforms-3/a684cc1f9465f594741c23228a3e341b/transformed/lifecycle-runtime-2.3.1/res
-com.example.alemeno.app-jetified-play-services-measurement-api-21.5.0-7 /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/res
-com.example.alemeno.app-jetified-firebase-common-20.4.2-8 /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/res
-com.example.alemeno.app-jetified-annotation-experimental-1.3.0-9 /home/hi-born4/.gradle/caches/transforms-3/da775182819eb27f74e068e0d4d331d3/transformed/jetified-annotation-experimental-1.3.0/res
-com.example.alemeno.app-jetified-ads-adservices-java-1.0.0-beta05-10 /home/hi-born4/.gradle/caches/transforms-3/e9ef136f6c29101b438b0d245525d5e1/transformed/jetified-ads-adservices-java-1.0.0-beta05/res
+com.example.alemeno.app-core-1.9.0-0 /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/res
+com.example.alemeno.app-jetified-annotation-experimental-1.3.0-1 /home/hi-born4/.gradle/caches/transforms-3/0518baef4644a9fd18eeeda450a9a486/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.alemeno.app-jetified-play-services-measurement-api-21.5.0-2 /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/res
+com.example.alemeno.app-jetified-window-java-1.0.0-beta04-3 /home/hi-born4/.gradle/caches/transforms-3/56cdffbad81667726d40d1f1199bb1fe/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.alemeno.app-jetified-window-1.0.0-beta04-4 /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/res
+com.example.alemeno.app-jetified-ads-adservices-1.0.0-beta05-5 /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/res
+com.example.alemeno.app-jetified-firebase-common-20.4.2-6 /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/res
+com.example.alemeno.app-jetified-play-services-basement-18.1.0-7 /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/res
+com.example.alemeno.app-jetified-core-ktx-1.9.0-8 /home/hi-born4/.gradle/caches/transforms-3/b91065dbbf9af1febcfe6dc67f258bcc/transformed/jetified-core-ktx-1.9.0/res
+com.example.alemeno.app-lifecycle-runtime-2.3.1-9 /home/hi-born4/.gradle/caches/transforms-3/c65d72ff5f6e54aa42631db3d3c3338d/transformed/lifecycle-runtime-2.3.1/res
+com.example.alemeno.app-jetified-ads-adservices-java-1.0.0-beta05-10 /home/hi-born4/.gradle/caches/transforms-3/ca315aa99c9942e136cf5b5a4e549958/transformed/jetified-ads-adservices-java-1.0.0-beta05/res
 com.example.alemeno.app-debug-11 /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/res
 com.example.alemeno.app-main-12 /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/res
 com.example.alemeno.app-RES-13 /home/hi-born4/Flutter Development/Alemeno/build/app/RES/processDebugGoogleServices
@@ -19,4 +19,3 @@ com.example.alemeno.app-mergeDebugResources-17 /home/hi-born4/Flutter Developmen
 com.example.alemeno.app-mergeDebugResources-18 /home/hi-born4/Flutter Development/Alemeno/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
 com.example.alemeno.app-merged_res-19 /home/hi-born4/Flutter Development/Alemeno/build/app/intermediates/merged_res/debug
 com.example.alemeno.app-packaged_res-20 /home/hi-born4/Flutter Development/Alemeno/build/shared_preferences_android/intermediates/packaged_res/debug
-com.example.alemeno.app-packaged_res-21 /home/hi-born4/Flutter Development/Alemeno/build/sqflite/intermediates/packaged_res/debug

@@ -1,44 +1,44 @@
 -- Merging decision tree log ---
 application
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/AndroidManifest.xml:2:5-32:19
-MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c5199e016ba179ccfe81e7204f64d402/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c5199e016ba179ccfe81e7204f64d402/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:29:5-41:19
-MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:29:5-41:19
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
-MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:28:5-44:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/26c125e3bb533aa8914d80d00f739b3e/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/26c125e3bb533aa8914d80d00f739b3e/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:29:5-30:19
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:29:5-30:19
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/a813d4a84e14ce9e44c21e17bae349f3/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/a813d4a84e14ce9e44c21e17bae349f3/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/b54f9f41004a1bd2165bcbf3ea202483/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/b54f9f41004a1bd2165bcbf3ea202483/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/6532e40f597912012262bb3660a6745e/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/6532e40f597912012262bb3660a6745e/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/8dc1fd0dd9ea5ed83d91cb09c0a2090b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/8dc1fd0dd9ea5ed83d91cb09c0a2090b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c97cc343670b6f4c2eb67af2227d4e39/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c97cc343670b6f4c2eb67af2227d4e39/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/cc689615bb2f202f6a29b046e44c7300/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/cc689615bb2f202f6a29b046e44c7300/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:29:5-30:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/0f7f955db175fd6e6a2901488568da08/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/0f7f955db175fd6e6a2901488568da08/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/03720f4a76fd96a4ca3d2c5095a2a9ec/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/03720f4a76fd96a4ca3d2c5095a2a9ec/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/28460de974137fba11d4ba6d5270e59a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/28460de974137fba11d4ba6d5270e59a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/2752f36254d336a260cdf720b397776f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/2752f36254d336a260cdf720b397776f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/6aab6b06e967efe5d37b02c154c0e903/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/6aab6b06e967efe5d37b02c154c0e903/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/de21edc92e2fafafd9ec01d4a3077e9c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/de21edc92e2fafafd9ec01d4a3077e9c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 	android:name
 		INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/AndroidManifest.xml
 manifest
@@ -48,48 +48,47 @@ INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/An
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from [:shared_preferences_android] /home/hi-born4/Flutter Development/Alemeno/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:sqflite] /home/hi-born4/Flutter Development/Alemeno/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/01b9ce7365db6c3ee1e417a1ede36e3e/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
-MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c5199e016ba179ccfe81e7204f64d402/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:17:1-43:12
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:2:1-24:12
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
-MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:17:1-46:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/26c125e3bb533aa8914d80d00f739b3e/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:17:1-32:12
-MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/e9ef136f6c29101b438b0d245525d5e1/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/a813d4a84e14ce9e44c21e17bae349f3/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:17:1-30:12
-MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/b54f9f41004a1bd2165bcbf3ea202483/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/6532e40f597912012262bb3660a6745e/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/8dc1fd0dd9ea5ed83d91cb09c0a2090b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/hi-born4/.gradle/caches/transforms-3/ec217e5c4accb03025d7780adbebad54/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.1.0] /home/hi-born4/.gradle/caches/transforms-3/ef8b0f1bdda210738268761a294b65ef/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/2b5a9881cdf6770653bd6b4a5ff777ad/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/30653ec1cf5498b2b6bf97cccb203783/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/88751ad6844f0229c855b98e10502cfe/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/4e6fb5957e79f86239f018ac974e891c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/3849d1d06f736ed300e860daa5fbfcbd/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/443aeb6b9d04b8fd393031a07f830c67/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hi-born4/.gradle/caches/transforms-3/da775182819eb27f74e068e0d4d331d3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.tracing:tracing:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/ad1309e4b9304f467c38cef1c0e6706f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-components:17.1.5] /home/hi-born4/.gradle/caches/transforms-3/59a6c45071df0b873d84e3f962c779ee/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/79f3179d075c1681f70d5fdfe202b653/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/a55778610333d95339c81a0905cb33d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/0c1711f405f870085c9275eead331371/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/33b15f6a5e4482cec122af7d33f62afb/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/40472f327a78a0f2bace6c70cf8fe88c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/hi-born4/.gradle/caches/transforms-3/a684cc1f9465f594741c23228a3e341b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/08bcab0b78c5444605e91d701ab70f2d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/d597fd9666857fbb6ef7684236358854/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/12726cec30e0c1603ff80087a9a0a5d3/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c97cc343670b6f4c2eb67af2227d4e39/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/56cdffbad81667726d40d1f1199bb1fe/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/cc689615bb2f202f6a29b046e44c7300/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/ca315aa99c9942e136cf5b5a4e549958/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/0f7f955db175fd6e6a2901488568da08/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/03720f4a76fd96a4ca3d2c5095a2a9ec/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/28460de974137fba11d4ba6d5270e59a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/2752f36254d336a260cdf720b397776f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/hi-born4/.gradle/caches/transforms-3/3be018f7820693439395824cff9d5836/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/6aab6b06e967efe5d37b02c154c0e903/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hi-born4/.gradle/caches/transforms-3/6512ccb39edb9dab6a5921db1eab00c7/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/819eb5b079d22a7c5e29b2b8c0bd8fb4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/e18abc206b8ca4cd4f5895c5ff678e32/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/792f6f3899613348f945e7cdd4bd6d21/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/4d988780011370b6c268fc2043654e15/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/cdb6cb2477e07e6732b34723fd27754e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/b91065dbbf9af1febcfe6dc67f258bcc/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hi-born4/.gradle/caches/transforms-3/0518baef4644a9fd18eeeda450a9a486/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/28bbf737ecfea02160cb10e4833ffbe5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/hi-born4/.gradle/caches/transforms-3/4ecbd73304b4594cb1667c88fc62745c/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/de21edc92e2fafafd9ec01d4a3077e9c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/b479d27e3868c9efc0ce83e3d9a69961/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/e4a3bfa4daf554304816548105004677/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/babf5f8fba74bd27cc480add5caf072d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/996ea8594063fd5fbfdfd44680650de8/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/7c67c10caec745843e671af8fcdee0d1/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/hi-born4/.gradle/caches/transforms-3/c65d72ff5f6e54aa42631db3d3c3338d/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/8e142c71ff8e29bacbadead172b022b1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/f324f0a30308385abd861dcf8b588f61/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/0cd93b25f8114261f084fbb7f3657f99/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml:1:1-7:12
@@ -113,90 +112,88 @@ INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/An
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/main/AndroidManifest.xml
 MERGED from [:shared_preferences_android] /home/hi-born4/Flutter Development/Alemeno/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:shared_preferences_android] /home/hi-born4/Flutter Development/Alemeno/build/shared_preferences_android/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:sqflite] /home/hi-born4/Flutter Development/Alemeno/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:sqflite] /home/hi-born4/Flutter Development/Alemeno/build/sqflite/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/01b9ce7365db6c3ee1e417a1ede36e3e/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
-MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/01b9ce7365db6c3ee1e417a1ede36e3e/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c5199e016ba179ccfe81e7204f64d402/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c5199e016ba179ccfe81e7204f64d402/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
-MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/26c125e3bb533aa8914d80d00f739b3e/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/26c125e3bb533aa8914d80d00f739b3e/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/e9ef136f6c29101b438b0d245525d5e1/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/e9ef136f6c29101b438b0d245525d5e1/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
-MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/a813d4a84e14ce9e44c21e17bae349f3/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/a813d4a84e14ce9e44c21e17bae349f3/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/b54f9f41004a1bd2165bcbf3ea202483/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/b54f9f41004a1bd2165bcbf3ea202483/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/6532e40f597912012262bb3660a6745e/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/6532e40f597912012262bb3660a6745e/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/8dc1fd0dd9ea5ed83d91cb09c0a2090b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/8dc1fd0dd9ea5ed83d91cb09c0a2090b/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/hi-born4/.gradle/caches/transforms-3/ec217e5c4accb03025d7780adbebad54/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
-MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/hi-born4/.gradle/caches/transforms-3/ec217e5c4accb03025d7780adbebad54/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/c9d091a18320512ee8c60df59c69a5d8/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.1.0] /home/hi-born4/.gradle/caches/transforms-3/ef8b0f1bdda210738268761a294b65ef/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] /home/hi-born4/.gradle/caches/transforms-3/ef8b0f1bdda210738268761a294b65ef/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/2b5a9881cdf6770653bd6b4a5ff777ad/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/2b5a9881cdf6770653bd6b4a5ff777ad/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/30653ec1cf5498b2b6bf97cccb203783/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/30653ec1cf5498b2b6bf97cccb203783/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/88751ad6844f0229c855b98e10502cfe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/88751ad6844f0229c855b98e10502cfe/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/4e6fb5957e79f86239f018ac974e891c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/4e6fb5957e79f86239f018ac974e891c/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/3849d1d06f736ed300e860daa5fbfcbd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/3849d1d06f736ed300e860daa5fbfcbd/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/443aeb6b9d04b8fd393031a07f830c67/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/443aeb6b9d04b8fd393031a07f830c67/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hi-born4/.gradle/caches/transforms-3/da775182819eb27f74e068e0d4d331d3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hi-born4/.gradle/caches/transforms-3/da775182819eb27f74e068e0d4d331d3/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.tracing:tracing:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/ad1309e4b9304f467c38cef1c0e6706f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/ad1309e4b9304f467c38cef1c0e6706f/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-components:17.1.5] /home/hi-born4/.gradle/caches/transforms-3/59a6c45071df0b873d84e3f962c779ee/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
-MERGED from [com.google.firebase:firebase-components:17.1.5] /home/hi-born4/.gradle/caches/transforms-3/59a6c45071df0b873d84e3f962c779ee/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/81b56d72bb117436b96b2d68fc978192/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/79f3179d075c1681f70d5fdfe202b653/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/79f3179d075c1681f70d5fdfe202b653/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/a55778610333d95339c81a0905cb33d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/a55778610333d95339c81a0905cb33d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/0c1711f405f870085c9275eead331371/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/0c1711f405f870085c9275eead331371/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/33b15f6a5e4482cec122af7d33f62afb/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/33b15f6a5e4482cec122af7d33f62afb/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/40472f327a78a0f2bace6c70cf8fe88c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/40472f327a78a0f2bace6c70cf8fe88c/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/hi-born4/.gradle/caches/transforms-3/a684cc1f9465f594741c23228a3e341b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/hi-born4/.gradle/caches/transforms-3/a684cc1f9465f594741c23228a3e341b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/08bcab0b78c5444605e91d701ab70f2d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/08bcab0b78c5444605e91d701ab70f2d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/d597fd9666857fbb6ef7684236358854/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/d597fd9666857fbb6ef7684236358854/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/12726cec30e0c1603ff80087a9a0a5d3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/12726cec30e0c1603ff80087a9a0a5d3/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c97cc343670b6f4c2eb67af2227d4e39/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/c97cc343670b6f4c2eb67af2227d4e39/transformed/jetified-firebase-analytics-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/56cdffbad81667726d40d1f1199bb1fe/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/56cdffbad81667726d40d1f1199bb1fe/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/cc689615bb2f202f6a29b046e44c7300/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/cc689615bb2f202f6a29b046e44c7300/transformed/jetified-play-services-measurement-sdk-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/ca315aa99c9942e136cf5b5a4e549958/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/ca315aa99c9942e136cf5b5a4e549958/transformed/jetified-ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:19:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/0f7f955db175fd6e6a2901488568da08/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/0f7f955db175fd6e6a2901488568da08/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/03720f4a76fd96a4ca3d2c5095a2a9ec/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/03720f4a76fd96a4ca3d2c5095a2a9ec/transformed/jetified-play-services-measurement-base-21.5.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/28460de974137fba11d4ba6d5270e59a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /home/hi-born4/.gradle/caches/transforms-3/28460de974137fba11d4ba6d5270e59a/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/2752f36254d336a260cdf720b397776f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /home/hi-born4/.gradle/caches/transforms-3/2752f36254d336a260cdf720b397776f/transformed/jetified-firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/hi-born4/.gradle/caches/transforms-3/3be018f7820693439395824cff9d5836/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /home/hi-born4/.gradle/caches/transforms-3/3be018f7820693439395824cff9d5836/transformed/jetified-firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/6aab6b06e967efe5d37b02c154c0e903/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/hi-born4/.gradle/caches/transforms-3/6aab6b06e967efe5d37b02c154c0e903/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hi-born4/.gradle/caches/transforms-3/6512ccb39edb9dab6a5921db1eab00c7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/hi-born4/.gradle/caches/transforms-3/6512ccb39edb9dab6a5921db1eab00c7/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/819eb5b079d22a7c5e29b2b8c0bd8fb4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/819eb5b079d22a7c5e29b2b8c0bd8fb4/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/e18abc206b8ca4cd4f5895c5ff678e32/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/e18abc206b8ca4cd4f5895c5ff678e32/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/792f6f3899613348f945e7cdd4bd6d21/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/792f6f3899613348f945e7cdd4bd6d21/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/4d988780011370b6c268fc2043654e15/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/4d988780011370b6c268fc2043654e15/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/cdb6cb2477e07e6732b34723fd27754e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/cdb6cb2477e07e6732b34723fd27754e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/b91065dbbf9af1febcfe6dc67f258bcc/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/b91065dbbf9af1febcfe6dc67f258bcc/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hi-born4/.gradle/caches/transforms-3/0518baef4644a9fd18eeeda450a9a486/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/hi-born4/.gradle/caches/transforms-3/0518baef4644a9fd18eeeda450a9a486/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/28bbf737ecfea02160cb10e4833ffbe5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/28bbf737ecfea02160cb10e4833ffbe5/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/hi-born4/.gradle/caches/transforms-3/4ecbd73304b4594cb1667c88fc62745c/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.5] /home/hi-born4/.gradle/caches/transforms-3/4ecbd73304b4594cb1667c88fc62745c/transformed/jetified-firebase-components-17.1.5/AndroidManifest.xml:18:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/de21edc92e2fafafd9ec01d4a3077e9c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/hi-born4/.gradle/caches/transforms-3/de21edc92e2fafafd9ec01d4a3077e9c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/b479d27e3868c9efc0ce83e3d9a69961/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/b479d27e3868c9efc0ce83e3d9a69961/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/e4a3bfa4daf554304816548105004677/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/e4a3bfa4daf554304816548105004677/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/babf5f8fba74bd27cc480add5caf072d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/babf5f8fba74bd27cc480add5caf072d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/996ea8594063fd5fbfdfd44680650de8/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/996ea8594063fd5fbfdfd44680650de8/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/7c67c10caec745843e671af8fcdee0d1/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/hi-born4/.gradle/caches/transforms-3/7c67c10caec745843e671af8fcdee0d1/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/hi-born4/.gradle/caches/transforms-3/c65d72ff5f6e54aa42631db3d3c3338d/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /home/hi-born4/.gradle/caches/transforms-3/c65d72ff5f6e54aa42631db3d3c3338d/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/8e142c71ff8e29bacbadead172b022b1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/8e142c71ff8e29bacbadead172b022b1/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/f324f0a30308385abd861dcf8b588f61/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/hi-born4/.gradle/caches/transforms-3/f324f0a30308385abd861dcf8b588f61/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/0cd93b25f8114261f084fbb7f3657f99/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/hi-born4/.gradle/caches/transforms-3/0cd93b25f8114261f084fbb7f3657f99/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml
 INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -207,199 +204,199 @@ INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/A
 		INJECTED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml:6:5-66
-MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:23:5-67
 	android:name
 		ADDED from /home/hi-born4/Flutter Development/Alemeno/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:24:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:24:5-79
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:24:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:23:22-76
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:23:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:24:5-68
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:25:5-68
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:25:5-68
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:24:22-65
 uses-permission#com.google.android.gms.permission.AD_ID
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:25:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:27:5-79
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:27:5-79
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/a813d4a84e14ce9e44c21e17bae349f3/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/a813d4a84e14ce9e44c21e17bae349f3/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:26:5-79
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:26:5-79
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/0f7f955db175fd6e6a2901488568da08/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /home/hi-born4/.gradle/caches/transforms-3/0f7f955db175fd6e6a2901488568da08/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:25:22-76
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:25:22-76
 uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:26:5-88
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:27:5-88
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:27:5-88
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:27:5-88
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:26:22-85
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:26:22-85
 uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:27:5-82
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:28:5-82
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/2446f9c75aab89b3193676fa76046083/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:28:5-82
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/8c93935136afeadb49c4aa323eadb602/transformed/jetified-play-services-measurement-sdk-api-21.5.0/AndroidManifest.xml:28:5-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:27:22-79
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:27:22-79
 property
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:30:9-32:61
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:30:9-32:61
 	android:resource
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:32:13-58
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:32:13-58
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:31:13-65
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:31:13-65
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:34:9-40:19
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
-MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
-MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:30:9-38:19
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:36:13-37
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:36:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:34:13-32
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:34:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:35:13-84
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:35:13-84
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
-ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:37:13-39:85
+ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:37:13-39:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:39:17-82
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:39:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/a902b6127714ab626fd6c10a4e10e402/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:38:17-139
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/0d3c278835da5438ae33dec6c612e56f/transformed/jetified-play-services-measurement-api-21.5.0/AndroidManifest.xml:38:17-139
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
-ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
+ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:15:13-17:85
 	android:value
-		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:17:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:16:17-130
 meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
-ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
+ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:18:13-20:85
 	android:value
-		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:20:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/bf33ed15c289e0cdce747d5886747df9/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
+		ADDED from [com.google.firebase:firebase-installations:17.2.0] /home/hi-born4/.gradle/caches/transforms-3/68a61ef284fb4f30010456b8cac47dcd/transformed/jetified-firebase-installations-17.2.0/AndroidManifest.xml:19:17-127
 meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
-ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
 	android:value
-		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/daabb3d1860865b7d4de9fc5c6b05646/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
-meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
-ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
-	android:value
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
-	android:name
-		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/cc463813bf5eddc1753d10fc9e2328d2/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
-uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
-	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
-uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
-	android:required
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
-	android:name
-		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/80f0cf918151b6210c32c59dd8ddd431/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+		ADDED from [com.google.firebase:firebase-common-ktx:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/7095b0c13b4e63c76cc5e1b320b4ab16/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
-ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:26:5-110
-MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/3c5932d5f46037cf431d0f2cb4c3372f/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:26:5-110
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/36db1a75eca51465807a0359508cc125/transformed/jetified-play-services-measurement-impl-21.5.0/AndroidManifest.xml:26:5-110
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:26:22-107
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:26:22-107
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:29:9-33:20
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:29:9-33:20
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:31:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:31:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:32:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:30:13-85
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:30:13-85
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:35:9-38:40
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:35:9-38:40
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:37:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:38:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:38:13-37
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:36:13-84
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:36:13-84
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:39:9-43:72
+ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:39:9-43:72
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:41:13-35
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:41:13-35
 	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:42:13-37
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:42:13-37
 	android:permission
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:43:13-69
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:43:13-69
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/277e20845e4d7476c042abf4ec8a8555/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:40:13-87
+		ADDED from [com.google.android.gms:play-services-measurement:21.5.0] /home/hi-born4/.gradle/caches/transforms-3/bc93e16bd69c7fdaf2d3bfd819f9db19/transformed/jetified-play-services-measurement-21.5.0/AndroidManifest.xml:40:13-87
 uses-library#android.ext.adservices
-ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
 	android:required
-		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
 	android:name
-		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/6ee58be3e3530cdb7aac093fb3c4b34f/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /home/hi-born4/.gradle/caches/transforms-3/7089aa52eecabb2dff8f389d48905b12/transformed/jetified-ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /home/hi-born4/.gradle/caches/transforms-3/6703fa78a8fb6ff2c22080020085cc12/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/4be4a7c68c977f0f8ea7a16eedf200ee/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+		ADDED from [com.google.firebase:firebase-common:20.4.2] /home/hi-born4/.gradle/caches/transforms-3/876927ecffe9789f1a3ca28f4c3904f0/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/hi-born4/.gradle/caches/transforms-3/b672bd6f6046339b2c959739cfd14536/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 permission#com.example.alemeno.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
 uses-permission#com.example.alemeno.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/9023678f458f5f413aa6d842f5cee258/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.9.0] /home/hi-born4/.gradle/caches/transforms-3/018c9e18dcdf02e38ff3f730b0af0a51/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

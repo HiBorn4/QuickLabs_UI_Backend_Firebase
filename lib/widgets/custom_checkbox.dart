@@ -26,7 +26,7 @@ class _CustomCheckboxState extends State<CustomCheckbox> {
         });
       },
       child: Container(
-        width: screenWidth * 0.035,
+        width: screenWidth * 0.034,
         height: screenHeight * 0.035,
         decoration: BoxDecoration(
           shape: BoxShape.circle,

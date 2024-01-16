@@ -5,6 +5,7 @@ import 'package:alemeno/screens/success_screen.dart';
 import 'package:alemeno/widgets/cart_card.dart';
 import 'package:alemeno/widgets/custom_checkbox.dart';
 import 'package:flutter/material.dart';
+// import 'package:flutter_sms/flutter_sms.dart';
 import 'package:intl/intl.dart';
 import 'package:provider/provider.dart';
 
@@ -48,17 +49,25 @@ class _CartScreenState extends State<CartScreen> {
     final double cardWidth = screenWidth * 0.87;
     final double cardHeight = screenHeight * 0.25;
 
-    // void sendSms() {
+    // void message() async {
     //   final List<String> testTitles =
     //       cartProvider.cart.map((test) => test.testName).toList();
     //   final String message =
-    //       'Scheduled tests: ${testTitles.join(', ')}\nDate: ${testProvider.formattedDate}\nTime: ${testProvider.formattedTime}';
+    //       'Scheduled tests: ${testTitles.join(', ')}\nDate: ${testProvider.date}\nTime: ${testProvider.time}';
 
-    //   SmsSender sender = new SmsSender();
-    //   String address =
-    //       '1234567890'; // Replace with the destination phone number
-    //   SmsMessage smsMessage = new SmsMessage(address, message);
-    //   sender.sendSms(smsMessage);
+    //   List<String> recipients = [
+    //     '9769202347'
+    //   ]; // Replace with the destination phone number
+
+    //   try {
+    //     String result = await sendSMS(
+    //       message: message,
+    //       recipients: recipients,
+    //     );
+    //     print(result);
+    //   } catch (error) {
+    //     print('Failed to send SMS: $error');
+    //   }
     // }
 
     return Scaffold(
@@ -510,6 +519,7 @@ class _CartScreenState extends State<CartScreen> {
                         builder: (context) => SuccessScreen(),
                       ),
                     );
+                    // message();
                   }
                   if (cartProvider.cart.isEmpty) {
                     ScaffoldMessenger.of(context).showSnackBar(

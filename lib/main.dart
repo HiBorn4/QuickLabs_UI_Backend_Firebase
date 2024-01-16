@@ -3,7 +3,6 @@ import 'package:provider/provider.dart'; // Import Provider
 import 'package:alemeno/providers/test_provider.dart'; // Import TestProvider
 import 'package:alemeno/providers/cart_provider.dart'; // Import CartProvider
 import 'package:alemeno/screens/home_screen.dart';
-// import 'package:alemeno/screens/cart_screen.dart';
 import 'package:alemeno/screens/success_screen.dart';
 
 void main() {
